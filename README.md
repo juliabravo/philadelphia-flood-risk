@@ -16,4 +16,4 @@ This project visualizes **flood risk zones in Philadelphia, Pennsylvania**, base
 - Styling and symbolizing flood risk data
 - Designing a clear, readable thematic map
 
-![Philadelphia Flood Risk Map](Philadelphia_FloodMap.png)
+![Philadelphia Flood Risk Map](Export/Philadelphia_FloodMap.png)
